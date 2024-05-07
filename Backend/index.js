@@ -7,8 +7,6 @@ console.log(process.env.DB_USER);
 console.log(process.env.DB_PASSWORD);
 
 const port = process.env.PORT || 5000;
-// const mongoURI =
-//   "mongodb+srv://hamzadev011:Meralockk08@cluster0.4lpoxah.mongodb.net/";
 
 app.use(express.json());
 app.use(cors());

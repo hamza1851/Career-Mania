@@ -90,7 +90,7 @@ const Home = () => {
           employmentType.toLowerCase() === selected.toLowerCase() ||
           postingdate >= selected
       );
-      console.log(filteredJobs);
+      // console.log(filteredJobs);
     }
 
     //slice the data based on currentPage

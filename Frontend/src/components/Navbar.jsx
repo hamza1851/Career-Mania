@@ -63,7 +63,7 @@ const Navbar = () => {
         </div>
       </nav>
 
-      {/*  */}
+      {/* List of menu */}
       <div
         className={`px-4 bg-black py-5 rounded-sm ${
           isMenuOpen ? "" : "hidden"

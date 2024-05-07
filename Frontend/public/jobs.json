@@ -84,9 +84,9 @@
     "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
   {
-    "id": 1,
+    "id": 7,
     "companyName": "Linear company",
-    "jobTitle": "Software Engineer",
+    "jobTitle": "Software Engineer-II",
     "companyLogo": "/images/Linear.png",
     "minPrice": "30",
     "maxPrice": "80",
@@ -98,12 +98,12 @@
     "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
   {
-    "id": 2,
+    "id": 8,
     "companyName": "Notion",
-    "jobTitle": "Web Developer",
+    "jobTitle": "Gen AI Developer",
     "companyLogo": "/images/Notion.png",
-    "minPrice": "40",
-    "maxPrice": "50",
+    "minPrice": "70",
+    "maxPrice": "120",
     "salaryType": "Yearly",
     "jobLocation": "San Francisco",
     "postingDate": "2023-10-28",
@@ -112,9 +112,9 @@
     "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
   {
-    "id": 3,
+    "id": 9,
     "companyName": "Spline studio",
-    "jobTitle": "Data Scientist",
+    "jobTitle": "Data Analyst",
     "companyLogo": "/images/Spline.png",
     "minPrice": "40",
     "maxPrice": "50",
@@ -126,12 +126,12 @@
     "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
   {
-    "id": 4,
+    "id": 10,
     "companyName": "Raycast corp",
-    "jobTitle": "UI/UX Designer",
+    "jobTitle": "System Architect",
     "companyLogo": "/images/Raycast.png",
-    "minPrice": "40",
-    "maxPrice": "50",
+    "minPrice": "90",
+    "maxPrice": "140",
     "salaryType": "Monthly",
     "jobLocation": "London",
     "postingDate": "2023-10-05",
@@ -140,9 +140,9 @@
     "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
   {
-    "id": 5,
+    "id": 11,
     "companyName": "Loom",
-    "jobTitle": "Frontend Developer",
+    "jobTitle": "IOS Developer",
     "companyLogo": "/images/Loom.png",
     "minPrice": "50",
     "maxPrice": "75",
@@ -154,9 +154,9 @@
     "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
   {
-    "id": 6,
+    "id": 12,
     "companyName": "Trainline group",
-    "jobTitle": "DevOps Engineer",
+    "jobTitle": "Python Developer",
     "companyLogo": "/images/Trainline.png",
     "minPrice": "80",
     "maxPrice": "120",
