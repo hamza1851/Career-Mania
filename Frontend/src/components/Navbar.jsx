@@ -85,9 +85,12 @@ const Navbar = () => {
               </li>
             );
           })}
-          <li className="text-white py-1">
+          <li className="text-white flex flex-col py-1">
             <Link to={"/login"} className="">
               Login
+            </Link>
+            <Link to={"/signup"} className="py-1">
+              Signup
             </Link>
           </li>
         </ul>
